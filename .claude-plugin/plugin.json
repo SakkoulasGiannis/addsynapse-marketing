@@ -1,0 +1,23 @@
+{
+  "name": "addsynapse-marketing",
+  "version": "1.0.0",
+  "description": "Ask Claude or ChatGPT why your traffic, sales or Google clicks changed: real numbers from Google Analytics 4, Search Console and Google Ads. Read-only.",
+  "author": {
+    "name": "AddSynapse",
+    "url": "https://addsynapse.com"
+  },
+  "homepage": "https://addsynapse.com/analytics",
+  "repository": "https://github.com/SakkoulasGiannis/addsynapse-marketing",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://addsynapse.com/privacy",
+  "mcpServers": {
+    "addsynapse-analytics": {
+      "type": "http",
+      "url": "https://api.addsynapse.com/mcp/analytics"
+    },
+    "addsynapse-ads": {
+      "type": "http",
+      "url": "https://api.addsynapse.com/mcp/ads"
+    }
+  }
+}

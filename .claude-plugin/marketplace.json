@@ -1,0 +1,16 @@
+{
+  "name": "addsynapse-marketing",
+  "description": "Ask Claude or ChatGPT why your traffic, sales or Google clicks changed: real numbers from Google Analytics 4, Search Console and Google Ads. Read-only.",
+  "owner": {
+    "name": "AddSynapse",
+    "url": "https://addsynapse.com"
+  },
+  "plugins": [
+    {
+      "name": "addsynapse-marketing",
+      "source": "./",
+      "description": "Ask Claude or ChatGPT why your traffic, sales or Google clicks changed: real numbers from Google Analytics 4, Search Console and Google Ads. Read-only.",
+      "homepage": "https://addsynapse.com/analytics"
+    }
+  ]
+}
